@@ -1,0 +1,27 @@
+.titulo {
+    text-align: center;
+    font-family: cursive;
+  }
+
+  #quadro {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #fce6ea;
+    text-align: center;
+  }
+
+  .foto, p {
+    text-align: center;
+    font-family: cursive;
+  }
+
+  a:link {
+    margin-left: 80px;
+    background-color: white;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 10px;
+  }
